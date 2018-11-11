@@ -1,0 +1,5 @@
+#!/bin/bash
+
+module load gcc
+module add openmpi/2.0-gcc-6.2
+module add i-compilers
